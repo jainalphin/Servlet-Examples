@@ -18,11 +18,11 @@ There are following 4 attribute specific methods. They are as follows:
    3.  public Enumeration getInitParameterNames():Returns the names of the context's initialization parameters as an Enumeration of String objects.
    4. public void removeAttribute(String name):Removes the attribute with the given name from the servlet context.
 
-## Employee Info:
+## Employee Info
 Assume   that   the   information   regarding   the   salary   and   age   for   all   employees   of   an   organization  are  available  in  a  database.    Develop  a  Servlet  application  which  takes  the  employee  id  of  an  employee  as  a  request  parameter  and  displays  the  details  of employee
 
 ## login logout application
 A Login application using servlet and JSP, where the user will provide his login details in a servlet page and if the login is successful then, a JSP page with “Welcome”message and “Log  Out”  button  should  be  shown.  If  the  login  is  failed,  then  message  of  failure  and  link  to  further  login  should  be  shown  on  a  JSP  page. 
 
-## Simple Online ShoppingA
+## Simple Online Shopping
 An online shopping website, where the customer registers himself with his name and email-id. The continue button will be available on that page and each subsequent page,  which  displays  the  list  of  items.  The  customer  will  choose  the  items  and  the  required  quantity.  In  last  webpage  the  customer’sname,  email  id,  the  list  of  his  purchased  items  and  the bill amount is shown. The students are advised to make the use of cookies. 
